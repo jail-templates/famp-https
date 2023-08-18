@@ -1,0 +1,3 @@
+INCLUDE https://github.com/jail-templates/apache-https
+INCLUDE https://github.com/jail-templates/php
+INCLUDE https://github.com/jail-templates/mariadb
